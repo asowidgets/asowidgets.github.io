@@ -20,7 +20,7 @@ ASO Widgets allows you to track your rannkings on the AppStore for a list of key
 ## 📱 Screenshots
 
 | ![Screenshot 1](/img/screens/1.png) | ![Screenshot 2](/img/screens/2.png)
-| ![Screenshot 3](/img/screens/3.png) | ![Screenshot 4](/img/screens/3.png)
+| ![Screenshot 3](/img/screens/3.png) | ![Screenshot 4](/img/screens/4.png)
 
 ## 🕵️ Privacy policy {#privacy}
 
