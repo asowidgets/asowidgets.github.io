@@ -15,7 +15,7 @@ Contact: <asowidgets [at] gmail.com>
 
 ## 📈 Track your keywords ranking on the AppStore
 
-ASO Widgets allows you to track your rannkings on the AppStore for a list of keywords, directly from your home screen.
+ASO Widgets allows you to track your rankings on the AppStore for a list of keywords, directly from your home screen.
 
 ## 📱 Screenshots
 
