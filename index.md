@@ -29,7 +29,7 @@ Your privacy is critically important to us. Your data is your own. We make no cl
 If you have questions about deleting or correcting your personal data please contact our support team.
 
 ### Gathering of Personally-Identifying Information
-ASO Widgets allows you to measure your daily happiness. It is not transmitted outside of the app.
+ASO Widgets allows you to track app rankings on the App Store. It is not transmitted outside of the app.
 
 ### Protection of Certain Personally-Identifying Information
 No Personally-Identifying Information is transmitted to external locations when using ASO Widgets.
